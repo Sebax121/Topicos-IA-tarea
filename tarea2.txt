@@ -1,0 +1,19 @@
+Introducción
+
+Este documento presenta una investigación detallada sobre el desarrollo e implementación de un sistema experto basado en lógica difusa aplicado al tratamiento de agua. La creciente necesidad de mejorar la eficiencia en los procesos de purificación y optimizar el uso de recursos ha llevado a la exploración de técnicas avanzadas de inteligencia artificial, entre las cuales la lógica difusa juega un papel fundamental.
+
+Contenido del Documento
+
+Resumen: Se proporciona una visión general del propósito del estudio y la importancia de los sistemas expertos en el tratamiento de agua.
+
+Introducción: Se explica el contexto del problema, la variabilidad en la calidad del agua y la necesidad de sistemas de control más flexibles y eficientes.
+
+Fundamentos de la Lógica Difusa: Se describen los conceptos clave de la lógica difusa y su aplicación en la toma de decisiones bajo incertidumbre.
+
+Desarrollo del Sistema Experto: Se detallan los componentes principales del sistema WATERFUZ, incluyendo sus entradas, reglas difusas y salidas.
+
+Implementación y Resultados: Se presentan los resultados obtenidos durante la prueba piloto en una planta de tratamiento de agua, destacando mejoras en la calidad del agua, reducción en el uso de químicos y optimización del tiempo de respuesta.
+
+Conclusiones: Se resumen los beneficios de la lógica difusa en el tratamiento de agua y se discuten futuras aplicaciones y mejoras posibles.
+
+Este documento tiene como objetivo proporcionar una comprensión clara sobre cómo la inteligencia artificial y la lógica difusa pueden contribuir a un manejo más eficiente y sostenible de los recursos hídricos.
